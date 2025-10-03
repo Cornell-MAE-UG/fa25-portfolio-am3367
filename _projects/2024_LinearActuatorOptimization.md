@@ -7,7 +7,7 @@ image: /assets/images/LinearActuatorProblemSketch.jpg
 
 ---
 
-For a problem in out Statics and Mechanics of Solids class, we were given a design assignment in which we are given a 2D design space that’s 150 cm long and 50 cm tall. Within this space, we were asked to design a mechanism with a linear actuator that can lift the maximum possible weight to the maximmum possible height. The thing that we were allowed to use were:
+For a problem in our Statics and Mechanics of Solids class, we were given a design assignment in which we have to build in a 2D design space that’s 150 cm long and 50 cm tall. We were asked to design a mechanism with a linear actuator that can lift the maximum possible weight to the maximmum possible height. The things that we were allowed to use were:
     - A rigid bar of fixed length (we get to choose how long it is)
     - Three pin supports, where two must be mounted on the ground
     - A linear actuator chosen from this online catalog: https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf
