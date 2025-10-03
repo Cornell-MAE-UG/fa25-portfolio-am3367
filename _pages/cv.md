@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Arrth Mittal - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -13,58 +13,61 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Engineering student with strong analytical and problem-solving skills, committed to learning and contributing to real projects.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Biomedical Engineering*  
+  GPA: 3.7/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Inglemoor High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: August, 2024
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Programming:** Python, Java  
+- **Tools:** Fusion 360, Arduino, Python, Java, Prototyping, Medical Devices, Data Analysis, Biomechanics, Genomic Engineering
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **BIOPSEE - Rapid Diagnosis of Cancer Utilizing CNNs**:    
+  - Trained a CNN model and repurposed a 3D printer to detect cancer from pancreatic biopsy samples, achieving 95% accuracy
+  - Secured second at Central Sound Science and Engineering Fair and got recognition from U.S. Army for creating mobile field tech
+  - Proposed a research paper to Journal of Biomedical Science for review and actively pursuing a provisional patent for BIOPSEE 
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **CRISPR: A Futuristic Tool at the Intersection of Promise and Ethical Controversy in Biotechnology**:   
+  - Published in Intersect: The Stanford Journal of Science, Technology, and Society
+
+- **Biomechanical Principles to Optimize the Design and Engineering of Gene Delivery for CRISPR-based Therapies**:   
+  - Published in International Journal of High School Research
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Villarica Partners - Intern**  
+  May, 2025 - Present  
+  - Assessed the financial health of public and private companies by evaluating QoE reports, DCF models, and precedent transactions
+  - Spearheaded capital raises and investment committee memos by creating investor materials and leading market landscape analysis
+  - Identified 15+ M&A targets across healthcare, SaaS, consumer, and energy sectors by targeting important acquisition synergies
 
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+  - **Red Brick AI - Intern**  
+  June, 2025 - January 2024  
+  - Managed 20+ user stories via Azure DevOps to develop an asset-tracking tool deployed across 50+ underserved school districts
+  - Led a team of 8 interns and collaborated with engineers from Google, Amazon, and Meta to resolve UX and logistical blockers
+  - Supported product roadmap planning, iterative user testing, and key performance metric tracking to validate product-market fit 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Venture Capital Ithaca
+- Member of Cornell iGem
+- Member of Cornell Undergraduate Biomedical Device
+- Member of Cornell Jiang Lab - Biomaterials and Drug Delivery Lab    
 
 ---
 
